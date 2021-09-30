@@ -1,0 +1,33 @@
+.title {
+    color:cadetblue;
+    font-family: Verdana;
+    padding-left: 220px;
+}
+
+h2 {
+    color:cadetblue;
+    font-family:Verdana;
+}
+
+h4{
+    font-family:geneva;
+    color:darkgoldenrod;
+    padding-left: 350px;
+}
+
+ol{
+    font-family: Geneva;
+}
+
+ul{
+    font-family: Geneva;
+}
+
+.bio{
+    font-family: Geneva;
+}
+
+.citation{
+    font-family:cursive;
+    color:dimgrey;
+}
