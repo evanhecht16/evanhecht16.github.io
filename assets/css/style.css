@@ -60,4 +60,26 @@ h3{
     text-align: left;
     padding-top: 30px;
 }
-   
+
+.resume{
+    text-align: left;
+    font-weight: bold;
+    color:darkorange;
+}
+
+ul{
+    text-align: left;
+}
+
+.titles{
+    text-align: left;
+    color: black;
+    font-weight: initial;
+    font-family: Roboto Mono;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.org{
+    text-align: left;
+}
