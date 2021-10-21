@@ -1,0 +1,63 @@
+body{
+    text-align: center;
+    font-family: Roboto Mono;  
+    background-color:antiquewhite;
+}
+
+
+h4{ 
+    color:darkorange;  
+    
+}
+
+h5{
+    color: dodgerblue;
+    font-weight: bold;
+    font-family: Oswald;
+    text-align: left;
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+
+.col-md-7{
+padding-top: 80px;
+
+}
+
+h1{
+    color: dodgerblue;
+    font-weight:bold; 
+    font-family: Oswald;
+}
+
+h3{
+ padding-top: 50px;
+}
+
+.staffprofile{
+    padding-top: 30px;
+}
+
+.SocialMedia{ 
+    text-align: left;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+.instagram{
+    color:dodgerblue;
+}
+
+.Twitter{
+    color:darkorange;
+}
+
+.LinkedIN{
+    color:dodgerblue;
+}
+
+.email{
+    text-align: left;
+    padding-top: 30px;
+}
+   
