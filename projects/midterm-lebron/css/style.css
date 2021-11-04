@@ -1,0 +1,263 @@
+
+.navbar-brand{
+    margin: 0 auto;
+    padding-bottom: 60px;
+}
+
+.lebron{
+    box-shadow: 10px 7px #A8FF00;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5em;
+    font-weight: 700;
+}
+
+p{
+    font-family: 'Roboto Mono', monospace;
+    padding-bottom: 30px;
+    
+}
+
+.byline{
+    font-weight: 200;
+}
+
+.greentext{
+    background-color:#A8FF00;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: .9em;
+    padding-bottom: 0px;
+}
+
+figcaption{
+    font-family: 'Roboto Mono', monospace;
+    font-style: italic;
+    font-weight: 200;
+    font-size: .8em;
+    color: #8e8e8e;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+a:hover{
+    color:#A8FF00;    
+}
+
+a{
+    font-weight:600;
+    color: black;
+    text-decoration: none;
+}
+
+.explainer{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.chart{
+    background-color: black;
+    color:white;
+    font-weight: bold;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-decoration: none;
+}
+
+.chart-text{
+    font-size: 0.8em;
+    list-style-type: none;
+}
+
+.summary{
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
+hr{
+    border-top: 2px dashed;
+}
+
+.footer{
+    font-size: 0.8em;
+    padding-bottom: 0px;
+}
+
+@media (min-width:775px)
+{
+    .navbar-brand{
+        margin: 0 auto;
+        padding-bottom: 60px;
+    }
+    
+    .lebron{
+        box-shadow: 10px 7px #A8FF00;
+    }
+    
+    h1{
+        font-family: 'Montserrat', sans-serif;
+        font-size: 3.5em;
+        font-weight: 700;
+    }
+    
+    p{
+        font-family: 'Roboto Mono', monospace;
+        padding-bottom: 30px;
+        
+    }
+    
+    .byline{
+        font-weight: 200;
+    }
+    
+    .greentext{
+        background-color:#A8FF00;
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: .9em;
+        padding-bottom: 0px;
+    }
+    
+    figcaption{
+        font-family: 'Roboto Mono', monospace;
+        font-style: italic;
+        font-weight: 200;
+        font-size: .8em;
+        color: #8e8e8e;
+        padding-top: 10px;
+        padding-bottom: 40px;
+    }
+    
+    a:hover{
+        color:#A8FF00;    
+    }
+    
+    a{
+        font-weight:600;
+        color: black;
+        text-decoration: none;
+    }
+    
+    .explainer{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    
+    .chart{
+        background-color: black;
+        color:white;
+        font-weight: bold;
+        padding-left: 5px;
+        padding-right: 5px;
+        text-decoration: none;
+    }
+    
+    .chart-text{
+        font-size: 0.8em;
+        list-style-type: none;
+    }
+    
+    .summary{
+        padding-top: 30px;
+        padding-bottom: 40px;
+    }
+    
+    hr{
+        border-top: 2px dashed;
+    }
+    
+    .footer{
+        font-size: 0.8em;
+        padding-bottom: 0px;
+    }   
+}
+
+@media (min-width:375px) {
+    .navbar-brand{
+        margin: 0 auto;
+        padding-bottom: 60px;
+    }
+    
+    .lebron{
+        box-shadow: 10px 7px #A8FF00;
+    }
+    
+    h1{
+        font-family: 'Montserrat', sans-serif;
+        font-size: 3.5em;
+        font-weight: 700;
+    }
+    
+    p{
+        font-family: 'Roboto Mono', monospace;
+        padding-bottom: 30px;
+        
+    }
+    
+    .byline{
+        font-weight: 200;
+    }
+    
+    .greentext{
+        background-color:#A8FF00;
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: .9em;
+        padding-bottom: 0px;
+    }
+    
+    figcaption{
+        font-family: 'Roboto Mono', monospace;
+        font-style: italic;
+        font-weight: 200;
+        font-size: .8em;
+        color: #8e8e8e;
+        padding-top: 10px;
+        padding-bottom: 40px;
+    }
+    
+    a:hover{
+        color:#A8FF00;    
+    }
+    
+    a{
+        font-weight:600;
+        color: black;
+        text-decoration: none;
+    }
+    
+    .explainer{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    
+    .chart{
+        background-color: black;
+        color:white;
+        font-weight: bold;
+        padding-left: 5px;
+        padding-right: 5px;
+        text-decoration: none;
+    }
+    
+    .chart-text{
+        font-size: 0.8em;
+        list-style-type: none;
+    }
+    
+    .summary{
+        padding-top: 30px;
+        padding-bottom: 40px;
+    }
+    
+    hr{
+        border-top: 2px dashed;
+    }
+    
+    .footer{
+        font-size: 0.8em;
+        padding-bottom: 0px;
+    }
+}
