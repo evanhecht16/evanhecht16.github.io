@@ -1,16 +1,31 @@
 .header{
     text-align: center;
+    font-family: Anton;
+    color:indigo;
 }
 
 body{
     background-color: darksalmon;
-}
-
-.writing{
-    padding-top: 30px;
+    font-family: oswald;
     text-align: center;
+    font-size: 20px;
 }
 
-.quote1{
-    padding-top: 0px;
+.col-md-6{
+    font-size: 25px;
+    font-family: anton;
+}
+
+.p1{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.p2{
+    padding-top:20px;
+    padding-bottom: 10px;
+}
+
+.p3{
+    padding-bottom: 20px;
 }
