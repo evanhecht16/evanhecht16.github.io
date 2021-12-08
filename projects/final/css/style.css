@@ -1,7 +1,7 @@
 .header{
     text-align: center;
     font-family: Anton;
-    color:indigo;
+    color:#b32929;
 }
 
 body{
@@ -9,6 +9,7 @@ body{
     font-family: oswald;
     text-align: center;
     font-size: 20px;
+    color:maroon;
 }
 
 .col-md-6{
@@ -28,4 +29,13 @@ body{
 
 .p3{
     padding-bottom: 20px;
+}
+
+figcaption{
+    font-family:merriweather;
+    font-size: 12px;
+}
+
+h6{
+    font-size: 15px;
 }
