@@ -1,30 +1,45 @@
 .header{
     text-align: center;
-    font-family: Anton;
-    color:#b32929;
+    font-family: 'Oswald', sans-serif;
+    color:#b32929;    
+}
+
+.header h1{
+    background-color:lightpink;
+    display: inline;
+}
+
+.header h6{
+    padding-top: 10px;
+    font-size: 15px;
 }
 
 body{
-    background-color: darksalmon;
-    font-family: oswald;
-    text-align: center;
+    font-family: 'Arvo', serif;
     font-size: 20px;
     color:maroon;
+    padding-left: 5px;
+    background-color:gainsboro;
+    
 }
 
-.col-md-6{
-    font-size: 25px;
-    font-family: anton;
+.col-md-6 p{
+    font-size: 20px;
+    background-color:lightpink;
+    display: inline;
 }
+
 
 .p1{
     padding-top: 10px;
     padding-bottom: 10px;
+    
 }
 
 .p2{
     padding-top:20px;
     padding-bottom: 10px;
+    
 }
 
 .p3{
@@ -32,10 +47,31 @@ body{
 }
 
 figcaption{
-    font-family:merriweather;
+    font-family:merriweather,serif;
     font-size: 12px;
 }
 
-h6{
-    font-size: 15px;
-}
+
+@media (max-width:768px) {
+
+        .header{
+            text-align: center;
+            font-family: Anton,sans-serif;
+            color:#b32929; 
+            font-size:1em;
+        }
+        
+        .header h1{
+            background-color:lightpink;
+            display: inline;
+        }
+        
+        
+        
+        .header h6{
+            padding-top: 10px;
+            
+        } 
+
+
+} 
